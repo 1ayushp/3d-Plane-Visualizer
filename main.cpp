@@ -19,7 +19,7 @@
 #include"EBO.h"
 #include"Camera.h"
 
-#include"Zmatrix.h";
+#include"Zmatrix.h"
 const unsigned int width = 1000;
 const unsigned int height = 1000;
 GLfloat vertices[600] ;
